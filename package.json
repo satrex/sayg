@@ -1,0 +1,16 @@
+{
+  "name": "sayword",
+  "version": "1.0.0",
+  "description": "play audio voice from text",
+  "main": "speak.js",
+  "dependencies": {
+    "@google-cloud/text-to-speech": "^1.1.2",
+    "play-sound": "^1.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "satrex",
+  "license": "ISC"
+}
