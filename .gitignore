@@ -1,5 +1,4 @@
+.git/
 node_modules/
-.git
-output.mp3
-package.json
+output.mp3  
 sayword-23d4bc6e8ddb.json
